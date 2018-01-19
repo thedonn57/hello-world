@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 Hi Humans!
 
 Hubot here, I like LANSA and Visual LANAS (that's what I'm made of!).
